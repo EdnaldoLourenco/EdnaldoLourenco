@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">💻 Analista Cloud<br>📚 Redes de Computadores - ANHANGUERA<br>🎯 Eu uso a automação para fornecer infraestrutura em nuvem com segurança e tranquilidade, gerando mais lucro com menos preocupações.</p>
+<p align="left">💻 Analista Cloud<br>📚 Redes de Computadores - ANHANGUERA<br>🎯 Automatizando infraestrutura em nuvem com segurança e tranquilidade, gerando mais lucro com menos preocupações.</p>
 
 ###
 
@@ -46,18 +46,12 @@
   <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="kubernetes logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=jenkins" height="40" alt="jenkins logo"  />
-</div>
-
-###
-
-<h2 align="left">Estudando 👨🏼‍🎓</h2>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="kubernetes logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=jenkins" height="40" alt="jenkins logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40" alt="prometheus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" height="40" alt="argocd logo"  />
 </div>
 
 ###
